@@ -18,7 +18,7 @@ I'm currently a student studying computer science with a minor in mathematics! T
 
 
 ## 🛠️ Technological Skills
-- **Languages:** Java, C#, Python, Javascript, Node.js, HTML/CSS
+- **Languages:** Java, C#, Python, Node.js, SQL, Javascript, HTML/CSS
 - **Frameworks:** Spring Boot, React.js, Node.js
 - **Cloud:** AWS Lambdas, API Gateway, DynamoDB, Cognito, IAM
 - **Tools:**  VS Code, IntelliJ IDEA, Git Version Control, Postman
