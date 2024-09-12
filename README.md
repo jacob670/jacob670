@@ -1,5 +1,5 @@
 # Hi, I'm Jacob Esteves 
-Welcome to my Github profile! I'm currently a student studying computer science with a minor in mathematics.
+I'm currently a student studying computer science with a minor in mathematics! Throughout my journey, I have tried and picked up many new skills and int and still continuing to grow!
 
 ## 📚 💻 Areas of Interest 
 - Cloud Computing
