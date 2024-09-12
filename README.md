@@ -4,7 +4,6 @@ I'm currently a student studying computer science with a minor in mathematics! T
 ## 📚 💻 Areas of Interest 
 - Cloud Computing
 - Backend Software Development
-- Algorithms and Data Structures
 
 ## 🗞️ Certifications
 - AWS Cloud Practitioner
