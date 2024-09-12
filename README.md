@@ -11,6 +11,6 @@ Welcome to my Github profile! I'm currently a student studying computer science 
 
 ### 1. [Entertainment (Name TDB) Application with Spring Boot and AWS](https://github.com/jacob670/java-aws-chat-application-v2)
 - **Tech Stack:** Spring Boot, AWS API Gateway, Lambda, DynamoDB, React.js
-- ***Backend*** aslasjas
+  - asaas  
 - **Description:** A real-time chat application where users can communicate, leveraging AWS for scalability and serverless infrastructure.
 
