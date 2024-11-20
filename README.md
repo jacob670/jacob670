@@ -1,9 +1,10 @@
 # Jacob Esteves
-I'm currently a student studying computer science with a minor in mathematics! Throughout my journey, I have tried and picked up many new skills and int and still continuing to grow!
+Hi! I'm currently a second-year student pursuing a double major in Computer Science and Cybersecurity. I am passionate about building, creating, and problem solving projects and applications of all sorts.
 
 ## 📚 💻 Areas of Interest
 - Cloud Computing
 - Backend Software Development
+- Computer Networks
 
 ## 🗞️ Certifications
 - AWS Cloud Practitioner
@@ -39,8 +40,10 @@ I'm currently a student studying computer science with a minor in mathematics! T
   - *Data Analysis*
     - Performed data analysis techniques including regression analysis and cross-tabulation
   - Created and answered commonly asked questions individuals may have about swimming
+ 
+### 3. EasyCal!
 
-### 4. [Arcade Style Pong] (https://github.com/jacob670/Pong4)
+### 4. [Arcade Style Pong](https://github.com/jacob670/Pong4)
 - **Tech Stack** Python and Pygame
 - **Description** 2 Arcade style version of the classic Pong game. Developed using the python programming language along with the library pygame for the gameplay. Includes 2-Player and 4-Player version Pong along with the ability for score history utilizing csv files.
   - *2-Player Mode*
