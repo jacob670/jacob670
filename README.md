@@ -17,7 +17,7 @@ I'm currently a student studying computer science with a minor in mathematics! T
 
 ### 2. [Olympic Swimming Dataset Analysis (In progress)](https://github.com/jacob670/OlympicSwimmingDataAnalysis)
 - **Tech Stack** Python, Pandas, Matplotlib, MySQL
-- **Description** examining and performing tabular transformations, accessing and manipulating data, designing, and storing data in a relational database, web scraping, data visualizations etc.
+- **Description** Examining and performing tabular transformations, accessing and manipulating data, designing, and storing data in a relational database, and creating data visualizations. 
 
 
 ## 🛠️ Technological Skills
