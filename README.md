@@ -17,9 +17,14 @@ I'm currently a student studying computer science with a minor in mathematics! T
 ## 🚀 Projects
 
 ### 1. [EasyEntertainment (Application utilizing Spring Boot, AWS, React)](https://github.com/jacob670/java-aws-chat-application-v2)
+- [Client Side in React.js](https://github.com/jacob670/react-aws-chat-application-v2-frontend)
 - **Tech Stack:** Spring Boot, React.js, Amazon Web Services
-    - [Client Side in React.js] (https://github.com/jacob670/react-aws-chat-application-v2-frontend)
-- **Description:** An enterainment application, specifically movies, where users can get have a watchlist, leave reviews, and more!. It leverages AWS services such as Cognito, Lambdas, API-Gateway, IAM Roles, and DynamoDB for scalability and efficiency
+- **Description:** Designed and created a movie lover application using Spring Boot,
+  React.js, and Amazon Web Services. It leverages AWS services such as Cognito, Lambdas, API-Gateway, IAM Roles, and DynamoDB for scalability and efficiency.
+  -  *Implemented authentication and authorization with Cognito*
+  -  *Created a REST API managed by the AWS API Gateway*
+  -  *API integration using Lambdas, DynamoDB, and IAM*
+  -  *Custom server side API creation and integration with the client side in order to provide all features*
 
 ### 2. [Olympic Swimming Dataset Analysis (In progress)](https://github.com/jacob670/OlympicSwimmingDataAnalysis)
 - **Tech Stack** Python, Pandas, Matplotlib, MySQL
@@ -43,4 +48,4 @@ I'm currently a student studying computer science with a minor in mathematics! T
   - *4-Player Mode* 
     - An enhanced and unique version of the original pong, where 4 paddles are against each side and only one can win!
   - *Other Features*
-    - Includes a main menu feature with a variety of options. Includes the csv library in order to write and read csv files 
+    - Includes a main menu feature with a variety of options. Includes the csv library in order to write and read custom csv files
