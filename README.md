@@ -13,7 +13,7 @@ Hi! I'm currently a second-year student pursuing a double major in Computer Scie
 - **Languages:** Java, C#, Python, Node.js, SQL, Javascript, HTML/CSS
 - **Frameworks:** Spring Boot, React.js, Node.js
 - **Cloud:** AWS Lambdas, API Gateway, DynamoDB, Cognito, IAM
-- **Tools:**  VS Code, IntelliJ IDEA, Git Version Control, Postman, Spyder
+- **Tools:**  VS Code, IntelliJ IDEA, Git Version Control, Postman, Spyder, CyberChef
 
 ## 🚀 Projects
 
@@ -29,7 +29,7 @@ Hi! I'm currently a second-year student pursuing a double major in Computer Scie
 
 ### 2. [Olympic Swimming Dataset Analysis (In progress)](https://github.com/jacob670/OlympicSwimmingDataAnalysis)
 - **Tech Stack** Python, Pandas, Matplotlib, MySQL
-- **Description** Examining and performing tabular transformations and aggregations, accessing and manipulating data, designing, and storing data in a relational database, and creating data visualizations. The dataset consists of Olympic swimming history and is linked to the repository.
+- **Description** Examined and performed tabular transformations and aggregations, accessed and manipulated data, designed and stored data in a relational database, and created data visualizations. The dataset consists of Olympic swimming history and is linked to the repository.
   - *Data Inspection and Cleanup*
     - Utilized Pandas to load, clean, and transform large amounts of raw data in a tabular format
   - *Data Storage*
@@ -41,7 +41,16 @@ Hi! I'm currently a second-year student pursuing a double major in Computer Scie
     - Performed data analysis techniques including regression analysis and cross-tabulation
   - Created and answered commonly asked questions individuals may have about swimming
  
-### 3. EasyCal!
+### 3. [EasyCal!](https://github.com/jacob670/EasyCal)
+- **Tech Stack** Java, JavaFX, Jackson
+- **Description** User-friendly and efficient calender application that allows a dedicated user to navigate, plan, create, and read events of all complexity. Developed using traditional object-oriented-principles, EasyCal leverages features such as JSON parsing and writing to allow for a efficient calender system.
+  - *Data Handling*
+    - Read and write custom user-created data using JSON for persistent and reliable storage
+    - Utilized Jackson library in order to parse events and user information directly from the files
+  - *Interactive GUI*
+    - Implemented JavaFX for a graphical user interface in order to provide a clean interface
+  - *Object-Oriented Design*
+    - Key principles including Inheritance, Encapsulation, Abstraction, and Polymorphism are used in order to ensure scalability and clean written code
 
 ### 4. [Arcade Style Pong](https://github.com/jacob670/Pong4)
 - **Tech Stack** Python and Pygame
