@@ -27,8 +27,8 @@ Hi! I'm currently a second-year student pursuing a double major in Computer Scie
   -  *API integration using Lambdas, DynamoDB, and IAM*
   -  *Custom server side API creation and integration with the client side in order to provide all features*
 
-### 2. [Olympic Swimming Dataset Analysis (In progress)](https://github.com/jacob670/OlympicSwimmingDataAnalysis)
-- **Tech Stack** Python, Pandas, Matplotlib, MySQL
+### 2. [Olympic Swimming Dataset Analysis](https://github.com/jacob670/OlympicSwimmingDataAnalysis)
+- **Tech Stack** Python, Pandas, Matplotlib, Seaborn, MySQL
 - **Description** Examined and performed tabular transformations and aggregations, accessed and manipulated data, designed and stored data in a relational database, and created data visualizations. The dataset consists of Olympic swimming history and is linked to the repository.
   - *Data Inspection and Cleanup*
     - Utilized Pandas to load, clean, and transform large amounts of raw data in a tabular format
@@ -36,7 +36,7 @@ Hi! I'm currently a second-year student pursuing a double major in Computer Scie
     - Parsed the dataset and creating a relational database model in MySQL to allow querying
     - Created a MySQL relational database model from parsing and converting the dataset values
   - *Data Visualization*
-    - Created a variety of different visualizations including charts, scatterplots, and histograms using the Matplotlib library
+    - Created a variety of different visualizations including charts, scatterplots, and histograms using Matplotlib and Seaborn
   - *Data Analysis*
     - Performed data analysis techniques including regression analysis and cross-tabulation
   - Created and answered commonly asked questions individuals may have about swimming
