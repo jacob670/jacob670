@@ -17,6 +17,8 @@ Hi! I'm currently a second-year student pursuing a double major in Computer Scie
 
 ## 🚀 Projects
 
+### 1. Secure C# Web API ........
+
 ### 1. [EasyEntertainment (Application utilizing Spring Boot, AWS, React)](https://github.com/jacob670/java-aws-chat-application-v2)
 - [Client Side in React.js](https://github.com/jacob670/react-aws-chat-application-v2-frontend)
 - **Tech Stack:** Spring Boot, React.js, Amazon Web Services
