@@ -4,7 +4,8 @@ Hi! I'm currently a second-year student pursuing a double major in Computer Scie
 ## 📚 💻 Areas of Interest
 - Cloud Computing
 - Application Development
-- Computer Networks
+- Low Level Concepts
+- Security
 
 ## 🗞️ Certifications
 - AWS Cloud Practitioner
@@ -13,7 +14,7 @@ Hi! I'm currently a second-year student pursuing a double major in Computer Scie
 - **Languages:** Java, C#, Python, Node.js, SQL, Javascript, HTML/CSS
 - **Frameworks:** Spring Boot, React.js, Node.js
 - **Cloud:** AWS Lambdas, API Gateway, DynamoDB, Cognito, IAM
-- **Tools:**  VS Code, IntelliJ IDEA, Git Version Control, Postman, Spyder, Wireshark
+- **Tools:**  VS Code, IntelliJ IDEA, Git Version Control, Powershell & Bash, Postman, Spyder, Wireshark
 
 ## 🚀 Projects
 
