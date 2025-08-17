@@ -1,5 +1,5 @@
 # Jacob Esteves
-Hi! I'm currently a second-year student pursuing a double major in Computer Science and Cybersecurity. I am passionate about building, creating, and problem solving projects and applications of all sorts.
+Hi! I'm currently a 3rd year student pursuing a double major in Computer Science and Cybersecurity. I am passionate about building, creating, and problem solving projects and applications of all sorts.
 
 ## 📚 💻 Areas of Interest
 - Cloud Computing
@@ -11,10 +11,10 @@ Hi! I'm currently a second-year student pursuing a double major in Computer Scie
 - AWS Cloud Practitioner
 
 ## 🛠️ Technological Skills
-- **Languages:** Java, C#, Python, Node.js, SQL, Javascript, HTML/CSS
-- **Frameworks:** Spring Boot, React.js, Node.js
+- **Languages:** Java, C#, Javascript, SQL, Python, C, ARM Assembly, HTML/CSS
+- **Frameworks:** Spring Boot, .NET, React.js, Node.js
 - **Cloud:** AWS Lambdas, API Gateway, DynamoDB, Cognito, IAM
-- **Tools:**  VS Code, IntelliJ IDEA, Git Version Control, Powershell & Bash, Postman, Spyder, Wireshark
+- **Tools:** Git Version Control & Github, AWS, Postman, Azure Devops, Powershell, Bash, SQL Server Management Studio, SQL Server Reporting Services, Wireshark, Swagger
 
 ## 🚀 Projects
 
