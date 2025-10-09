@@ -11,10 +11,10 @@ Hi! I'm currently a 3rd year student pursuing a double major in Computer Science
 - AWS Cloud Practitioner
 
 ## 🛠️ Technological Skills
-- **Languages:** Java, C#, Javascript, SQL, Python, C, ARM Assembly, HTML/CSS
+- **Languages:** Java, C#, Javascript, SQL, Python, C, ARM Assembly, R, HTML/CSS
 - **Frameworks:** Spring Boot, .NET, React.js, Node.js
 - **Cloud:** AWS Cognito, IAM, DynamoDB, Lambdas, API Gateway, Billing and Cost Management
-- **Tools:** Git Version Control & Github, AWS, Postman, Azure Devops, Powershell, Bash, SQL Server Management Studio, SQL Server Reporting Services, Wireshark, Swagger
+- **Tools:** Git Version Control & Github, AWS, Postman, Azure Devops, Powershell, Bash, SQL Server Management Studio, SQL Server Reporting Services, MongoDB, Wireshark, Swagger
 
 ## 🚀 Projects
 
