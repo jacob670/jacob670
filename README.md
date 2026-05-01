@@ -10,6 +10,7 @@ Hi! I'm currently a 3rd year student pursuing a double major in Computer Science
 
 ## 🗞️ Certifications
 - AWS Cloud Practitioner
+- ISC^2 CC
 
 ## 🛠️ Technological Skills
 - **Languages:** Java, C#, Javascript, SQL, Python, C, ARM Assembly, R, HTML/CSS
@@ -21,8 +22,8 @@ Hi! I'm currently a 3rd year student pursuing a double major in Computer Science
 
 
 ### [IoT Environmental Monitoring in Action](https://github.com/jacob670/IoT-Environmental-Data-ML-and-Anaylsis/tree/main)
--**Materials** ESP32 Microcontroller, Raspberry Pi, BME680 Sensor
--**Tech Stack** CircuitPython, Flask, MariaDB & MySQL Server
+- **Materials** ESP32 Microcontroller, Raspberry Pi, BME680 Sensor
+- **Tech Stack** CircuitPython, Flask, MariaDB & MySQL Server
 - **Description** Analyzed 3 buildings on my college campus, with data collected every minute for several days. The BME680 is connected to the ESP32, and the data is sent to a CGI (common gateway interface) on the Pi. The data is collected on the pi, then is dumped into the sql server. A dashboard is made in Flask, where common machine learning and statistical methods are applied to draw conclusions based on temperature and humidity.
 
 ### 1. Safe Vault
