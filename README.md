@@ -21,14 +21,14 @@ Hi! I'm currently a 3rd year student pursuing a double major in Computer Science
 ## 🚀 Projects
 
 
-### [IoT Environmental Monitoring in Action](https://github.com/jacob670/IoT-Environmental-Data-ML-and-Anaylsis/tree/main)
+### 1. [IoT Environmental Monitoring in Action](https://github.com/jacob670/IoT-Environmental-Data-ML-and-Anaylsis/tree/main)
 - **Materials** ESP32 Microcontroller, Raspberry Pi, BME680 Sensor
 - **Tech Stack** CircuitPython, Flask, MariaDB & MySQL Server
 - **Description** Analyzed 3 buildings on my college campus, with data collected every minute for several days. The BME680 is connected to the ESP32, and the data is sent to a CGI (common gateway interface) on the Pi. The data is collected on the pi, then is dumped into the sql server. A dashboard is made in Flask, where common machine learning and statistical methods are applied to draw conclusions based on temperature and humidity.
 
-### 1. Safe Vault
+### 2. Safe Vault
 
-### 2. [Easy Entertainment (Application utilizing Spring Boot, AWS, React)](https://github.com/jacob670/java-aws-chat-application-v2)
+### 3. [Easy Entertainment (Application utilizing Spring Boot, AWS, React)](https://github.com/jacob670/java-aws-chat-application-v2)
 - [Client Side in React.js](https://github.com/jacob670/react-aws-chat-application-v2-frontend)
 - **Tech Stack:** Spring Boot, React.js, Amazon Web Services
 - **Description:** Designed and created a movie lover application using Spring Boot,
@@ -38,7 +38,7 @@ Hi! I'm currently a 3rd year student pursuing a double major in Computer Science
   -  *API integration using Lambdas, DynamoDB, and IAM*
   -  *Custom server side API creation and integration with the client side in order to provide all features*
 
-### 3. [Olympic Swimming Dataset Analysis](https://github.com/jacob670/OlympicSwimmingDataAnalysis)
+### 4. [Olympic Swimming Dataset Analysis](https://github.com/jacob670/OlympicSwimmingDataAnalysis)
 - **Tech Stack** Python, Pandas, Matplotlib, Seaborn, MySQL
 - **Description** Examined and performed tabular transformations and aggregations, accessed and manipulated data, designed and stored data in a relational database, and created data visualizations. The dataset consists of Olympic swimming history and is linked to the repository.
   - *Data Inspection and Cleanup*
@@ -52,7 +52,7 @@ Hi! I'm currently a 3rd year student pursuing a double major in Computer Science
     - Performed data analysis techniques including regression analysis and cross-tabulation
   - Created and answered commonly asked questions individuals may have about swimming
  
-### 4. [EasyCal!](https://github.com/jacob670/EasyCal)
+### 5. [EasyCal!](https://github.com/jacob670/EasyCal)
 - **Tech Stack** Java, JavaFX, Jackson
 - **Description** User-friendly and efficient calender application that allows a dedicated user to navigate, plan, create, and read events of all complexity. Developed using traditional object-oriented-principles, EasyCal leverages features such as JSON parsing and writing to allow for a efficient calender system.
   - *Data Handling*
@@ -63,7 +63,7 @@ Hi! I'm currently a 3rd year student pursuing a double major in Computer Science
   - *Object-Oriented Design*
     - Key principles including Inheritance, Encapsulation, Abstraction, and Polymorphism are used in order to ensure scalability and clean written code
 
-### 5. [Arcade Style Pong](https://github.com/jacob670/Pong4)
+### 6. [Arcade Style Pong](https://github.com/jacob670/Pong4)
 - **Tech Stack** Python and Pygame
 - **Description** 2 Arcade style version of the classic Pong game. Developed using the python programming language along with the library pygame for the gameplay. Includes 2-Player and 4-Player version Pong along with the ability for score history utilizing csv files.
   - *2-Player Mode*
