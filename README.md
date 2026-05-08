@@ -22,7 +22,7 @@ Hi! I'm currently a 3rd year student pursuing a double major in Computer Science
 ### 1. [IoT Environmental Monitoring in Action](https://github.com/jacob670/IoT-Environmental-Data-ML-and-Anaylsis/tree/main)
 - **Materials** ESP32 Microcontroller, Raspberry Pi, BME680 Sensor
 - **Tech Stack** CircuitPython, Flask, MariaDB & MySQL Server
-- **Description** Analyzed 3 buildings on my college campus, with data collected every minute for several days. The BME680 is connected to the ESP32, and the data is sent to a CGI (common gateway interface) on the Pi. The data is collected on the pi, then is dumped into the sql server. A dashboard is made in Flask, where common machine learning and statistical methods are applied to draw conclusions based on temperature and humidity.
+- **Description** Analyzed 3 buildings on our college campus, with data collected every minute for several days. The BME680 is connected to the ESP32, and the data is sent to a Common Gateway Interface on the Pi. The data is collected and processed on the pi, then is dumped into the sql server hosted by the pi. A dashboard is made in Flask locally, where common machine learning and statistical methods are applied on a data dump to draw conclusions based on temperature and humidity.
 
 ### 2. [Safe Vault](https://github.com/jacob670/SafeVault)
 - **Tech Stack:** .NET, React.js, Amazon Web Services
