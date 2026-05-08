@@ -4,6 +4,7 @@ Hi! I'm currently a 3rd year student pursuing a double major in Computer Science
 ## 📚 💻 Areas of Interest
 - Cloud Computing
 - Application Development
+- Operating Systems
 - Penetration Testing
 
 ## 🗞️ Certifications
